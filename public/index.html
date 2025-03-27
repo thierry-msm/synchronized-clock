@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relógio Sincronizado</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="clock-section websocket-clock">
+            <h2>WebSocket Clock</h2>
+            <div id="websocket-time" class="clock">00:00:00</div>
+        </div>
+        
+        <div class="clock-section polling-clock">
+            <h2>HTTP Polling Clock</h2>
+            <div id="polling-time" class="clock">00:00:00</div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
