@@ -29,7 +29,7 @@ Este projeto demonstra duas técnicas diferentes de sincronização de tempo em 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/synchronized-clock.git](https://github.com/thierry-msm/synchronized-clock
+git clone https://github.com/thierry-msm/synchronized-clock
 cd synchronized-clock
 ```
 
